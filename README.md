@@ -1,4 +1,4 @@
-# Mortal Combat учебный проект GLO-Aacdemy
+# Mortal Combat учебный проект GLO-Academy
 ## Выполнил проект: Закревский А.Р.
 ### Технологии:
 -HTML
